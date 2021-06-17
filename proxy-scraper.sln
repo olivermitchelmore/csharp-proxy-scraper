@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proxy-scraper", "proxy-scraper\proxy-scraper.csproj", "{F705106F-05D8-4AD5-AA5F-498A01CF1FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F705106F-05D8-4AD5-AA5F-498A01CF1FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F705106F-05D8-4AD5-AA5F-498A01CF1FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F705106F-05D8-4AD5-AA5F-498A01CF1FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F705106F-05D8-4AD5-AA5F-498A01CF1FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEFB3F6B-0703-45F0-BEBE-F6F2F4572480}
+	EndGlobalSection
+EndGlobal
